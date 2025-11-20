@@ -8,7 +8,7 @@ I am a Computer Science student passionate about technology and coding.
 - 🌱 I’m currently learning **Python, Git, and Basic Web Development**.
 - 👯 I’m looking to collaborate on **Beginner Open Source Projects**.
 - 💬 Ask me about **School projects and tech trends**.
-- 📫 How to reach me: **[Your Email Address]**
+- 📫 How to reach me: **Muneeb21110@gamil.com**
 
 🛠 Languages & Tools
 - **Languages:** C++, HTML, CSS
